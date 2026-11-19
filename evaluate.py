@@ -1,4 +1,3 @@
-
 import argparse
 import json
 import logging
@@ -18,7 +17,7 @@ from classifier.llm import GigaChatClient
 INPUT_PATH = Path("data/gt/pool1.json")
 OUTPUT_PATH = Path("data/predictions/pool1_predictions.json")
 ERRORS_PATH = Path("data/predictions/pool1_errors.json")
-SYSTEM_PROMPT_PATH = Path("prompts/system_prompt.md")
+SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_base.md")
 
 LOG_EVERY = 10
 
