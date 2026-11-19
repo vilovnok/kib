@@ -1,0 +1,3928 @@
+[
+    {
+        "assignment_id": "d4714ff3-aa5c-436a-88b9-68a757c8bffd",
+        "end_date": "2026-10-13T15:43:21.673884+03:00",
+        "file_name": "071026_1",
+        "item_id": "15c25255-dd86-4733-9bc4-5fe3db141de6",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_1",
+            "agent_code": "get_tribe",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:41:46.659628+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T15:43:21.673884+03:00",
+        "accepted_at": "2026-10-13T15:43:21.673884+03:00",
+        "started_at": "2026-10-13T15:41:46.659628+03:00",
+        "datetime": "2026-10-13T15:43:21.673884+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "4c64880a-433f-45e7-ad95-67a4a3a50fe0",
+        "end_date": "2026-10-13T15:44:09.160411+03:00",
+        "file_name": "071026_1",
+        "item_id": "15c25255-dd86-4733-9bc4-5fe3db141de6",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_1",
+            "agent_code": "get_tribe",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:41:47.197825+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T15:44:09.160411+03:00",
+        "accepted_at": "2026-10-13T15:44:09.160411+03:00",
+        "started_at": "2026-10-13T15:41:47.197825+03:00",
+        "datetime": "2026-10-13T15:44:09.160411+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "22fbd119-3389-4e73-a757-74a9c260d48c",
+        "end_date": "2026-10-13T15:48:10.732833+03:00",
+        "file_name": "071026_4",
+        "item_id": "c2f6f406-32b2-42c2-a180-0ac575a1f3be",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_4",
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:44:09.386744+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T15:48:10.732833+03:00",
+        "accepted_at": "2026-10-13T15:48:10.732833+03:00",
+        "started_at": "2026-10-13T15:44:09.386744+03:00",
+        "datetime": "2026-10-13T15:48:10.732833+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "0235999f-8c62-4bc9-8ec4-eaee2f70144c",
+        "end_date": "2026-10-13T15:53:23.028240+03:00",
+        "file_name": "071026_4",
+        "item_id": "c2f6f406-32b2-42c2-a180-0ac575a1f3be",
+        "item_type": "data",
+        "marker_id": "508da800-2260-4b17-b082-cf2c05df692d",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f53a1fd1-4c3a-4725-a80d-9244dc6e3951"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_4",
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:48:41.410750+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T15:53:23.028240+03:00",
+        "accepted_at": "2026-10-13T15:53:23.028240+03:00",
+        "started_at": "2026-10-13T15:48:41.410750+03:00",
+        "datetime": "2026-10-13T15:53:23.028240+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "84d83d55-96ec-43a1-a709-b57e9ed125cb",
+        "end_date": "2026-10-13T15:56:51.307747+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:41:50.651168+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T15:56:51.307747+03:00",
+        "started_at": "2026-10-13T15:41:50.651168+03:00",
+        "datetime": "2026-10-13T15:56:51.307747+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "011cb6d1-6ba0-4586-b2f7-3314d09971d6",
+        "end_date": "2026-10-13T15:56:59.382581+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:41:58.935321+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T15:56:59.382581+03:00",
+        "started_at": "2026-10-13T15:41:58.935321+03:00",
+        "datetime": "2026-10-13T15:56:59.382581+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "88bcf4f8-a3a4-405f-9b23-3aeea0770266",
+        "end_date": "2026-10-13T15:57:05.965721+03:00",
+        "file_name": "071026_3",
+        "item_id": "e12e7cfa-7dce-466d-81d7-d467b9e161dd",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_3",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:43:07.488534+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T15:57:05.965721+03:00",
+        "accepted_at": "2026-10-13T15:57:05.965721+03:00",
+        "started_at": "2026-10-13T15:43:07.488534+03:00",
+        "datetime": "2026-10-13T15:57:05.965721+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "082b897a-a94c-4fc8-8b32-c4e263144c2d",
+        "end_date": "2026-10-13T15:57:28.094684+03:00",
+        "file_name": "071026_5",
+        "item_id": "445c2e31-b8fd-4e33-95ca-650e1facb3cd",
+        "item_type": "data",
+        "marker_id": "508da800-2260-4b17-b082-cf2c05df692d",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f53a1fd1-4c3a-4725-a80d-9244dc6e3951"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_5",
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:53:23.264067+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T15:57:28.094684+03:00",
+        "accepted_at": "2026-10-13T15:57:28.094684+03:00",
+        "started_at": "2026-10-13T15:53:23.264067+03:00",
+        "datetime": "2026-10-13T15:57:28.094684+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "37425ca0-fc0c-4e00-bf6a-86c21f80a138",
+        "end_date": "2026-10-13T15:58:21.939301+03:00",
+        "file_name": "071026_3",
+        "item_id": "e12e7cfa-7dce-466d-81d7-d467b9e161dd",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:43:21.868668+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T15:58:21.939301+03:00",
+        "started_at": "2026-10-13T15:43:21.868668+03:00",
+        "datetime": "2026-10-13T15:58:21.939301+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "64705a1b-c526-47ae-b435-f61b9d1c70db",
+        "end_date": "2026-10-13T16:03:11.930246+03:00",
+        "file_name": "071026_5",
+        "item_id": "445c2e31-b8fd-4e33-95ca-650e1facb3cd",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:48:10.941735+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T16:03:11.930246+03:00",
+        "started_at": "2026-10-13T15:48:10.941735+03:00",
+        "datetime": "2026-10-13T16:03:11.930246+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "65bd348a-845b-40e4-804e-67d8488660ee",
+        "end_date": "2026-10-13T16:04:05.985423+03:00",
+        "file_name": "071026_3",
+        "item_id": "e12e7cfa-7dce-466d-81d7-d467b9e161dd",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_3",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T15:58:34.501994+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:04:05.985423+03:00",
+        "accepted_at": "2026-10-13T16:04:05.985423+03:00",
+        "started_at": "2026-10-13T15:58:34.501994+03:00",
+        "datetime": "2026-10-13T16:04:05.985423+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "f944adf7-bf66-436d-8ac8-8261e194876b",
+        "end_date": "2026-10-13T16:11:55.475558+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:56:54.942297+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T16:11:55.475558+03:00",
+        "started_at": "2026-10-13T15:56:54.942297+03:00",
+        "datetime": "2026-10-13T16:11:55.475558+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "cf6c40df-f437-4b92-8fa8-3c10b0dcb615",
+        "end_date": "2026-10-13T16:12:07.576102+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:57:06.293579+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T16:12:07.576102+03:00",
+        "started_at": "2026-10-13T15:57:06.293579+03:00",
+        "datetime": "2026-10-13T16:12:07.576102+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "52755973-5e6e-4014-b6f4-80bcc98543c6",
+        "end_date": "2026-10-13T16:12:29.730916+03:00",
+        "file_name": "071026_6",
+        "item_id": "4f2d0c08-647a-4b84-be6e-397dd479d872",
+        "item_type": "data",
+        "marker_id": "508da800-2260-4b17-b082-cf2c05df692d",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f53a1fd1-4c3a-4725-a80d-9244dc6e3951"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T15:57:28.323995+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T16:12:29.730916+03:00",
+        "started_at": "2026-10-13T15:57:28.323995+03:00",
+        "datetime": "2026-10-13T16:12:29.730916+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "8fae2da9-aa5d-4252-9434-fdb9c9ad3633",
+        "end_date": "2026-10-13T16:38:32.912705+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_2",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_tool_required"
+        },
+        "start_date": "2026-10-13T16:35:57.555894+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.88,
+        "submitted_at": "2026-10-13T16:38:32.912705+03:00",
+        "accepted_at": "2026-10-13T16:38:32.912705+03:00",
+        "started_at": "2026-10-13T16:35:57.555894+03:00",
+        "datetime": "2026-10-13T16:38:32.912705+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "aef0492a-9391-402b-9eae-789a5661ceb6",
+        "end_date": "2026-10-13T16:39:31.994909+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_2",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T16:36:47.455701+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T16:39:31.994909+03:00",
+        "accepted_at": "2026-10-13T16:39:31.994909+03:00",
+        "started_at": "2026-10-13T16:36:47.455701+03:00",
+        "datetime": "2026-10-13T16:39:31.994909+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a086da25-082f-44db-a84e-632440fd50ae",
+        "end_date": "2026-10-13T16:42:13.194080+03:00",
+        "file_name": "071026_6",
+        "item_id": "4f2d0c08-647a-4b84-be6e-397dd479d872",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_6",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T16:38:33.069636+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:42:13.194080+03:00",
+        "accepted_at": "2026-10-13T16:42:13.194080+03:00",
+        "started_at": "2026-10-13T16:38:33.069636+03:00",
+        "datetime": "2026-10-13T16:42:13.194080+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "77c85bca-faed-46ef-b500-481a856cf571",
+        "end_date": "2026-10-13T16:42:16.946090+03:00",
+        "file_name": "071026_6",
+        "item_id": "4f2d0c08-647a-4b84-be6e-397dd479d872",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_6",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T16:39:32.192847+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:42:16.946090+03:00",
+        "accepted_at": "2026-10-13T16:42:16.946090+03:00",
+        "started_at": "2026-10-13T16:39:32.192847+03:00",
+        "datetime": "2026-10-13T16:42:16.946090+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "00856332-6da6-4169-9427-db79377c4c00",
+        "end_date": "2026-10-13T16:43:10.693247+03:00",
+        "file_name": "071026_8",
+        "item_id": "d158b3ca-4a33-4cfd-8f96-101601c5efb2",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_8",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:42:17.127216+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:43:10.693247+03:00",
+        "accepted_at": "2026-10-13T16:43:10.693247+03:00",
+        "started_at": "2026-10-13T16:42:17.127216+03:00",
+        "datetime": "2026-10-13T16:43:10.693247+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b577fda8-0035-4b41-bbd2-8dd06cb27c13",
+        "end_date": "2026-10-13T16:44:31.439331+03:00",
+        "file_name": "071026_5",
+        "item_id": "445c2e31-b8fd-4e33-95ca-650e1facb3cd",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_5",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-13T16:36:49.335231+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T16:44:31.439331+03:00",
+        "accepted_at": "2026-10-13T16:44:31.439331+03:00",
+        "started_at": "2026-10-13T16:36:49.335231+03:00",
+        "datetime": "2026-10-13T16:44:31.439331+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "03a6a1a4-793c-402f-812b-4a0a9e6adf94",
+        "end_date": "2026-10-13T16:44:32.563067+03:00",
+        "file_name": "071026_7",
+        "item_id": "31c6d9dc-98bf-4595-bef9-bca85d0202c2",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_7",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:42:13.355852+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:44:32.563067+03:00",
+        "accepted_at": "2026-10-13T16:44:32.563067+03:00",
+        "started_at": "2026-10-13T16:42:13.355852+03:00",
+        "datetime": "2026-10-13T16:44:32.563067+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "468abbf5-545f-474e-9fce-57df4de11363",
+        "end_date": "2026-10-13T16:45:42.296704+03:00",
+        "file_name": "071026_7",
+        "item_id": "31c6d9dc-98bf-4595-bef9-bca85d0202c2",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_7",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:39:51.878778+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:45:42.296704+03:00",
+        "accepted_at": "2026-10-13T16:45:42.296704+03:00",
+        "started_at": "2026-10-13T16:39:51.878778+03:00",
+        "datetime": "2026-10-13T16:45:42.296704+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "3c086ceb-477a-47d8-b936-881c2bf03b9a",
+        "end_date": "2026-10-13T16:47:03.889864+03:00",
+        "file_name": "071026_9",
+        "item_id": "0f54308c-23a6-43a2-844e-b6baf0a94fb3",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_9",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:43:10.897960+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:47:03.889864+03:00",
+        "accepted_at": "2026-10-13T16:47:03.889864+03:00",
+        "started_at": "2026-10-13T16:43:10.897960+03:00",
+        "datetime": "2026-10-13T16:47:03.889864+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "28e9eb1c-3437-4d7a-b50d-73fd4313e380",
+        "end_date": "2026-10-13T16:49:06.519138+03:00",
+        "file_name": "071026_9",
+        "item_id": "0f54308c-23a6-43a2-844e-b6baf0a94fb3",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_9",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:44:32.713480+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:49:06.519138+03:00",
+        "accepted_at": "2026-10-13T16:49:06.519138+03:00",
+        "started_at": "2026-10-13T16:44:32.713480+03:00",
+        "datetime": "2026-10-13T16:49:06.519138+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7d584a03-40a4-47c6-aa0d-2fdd5ea0df17",
+        "end_date": "2026-10-13T16:49:39.642197+03:00",
+        "file_name": "071026_10",
+        "item_id": "be76a5ba-6f23-44b4-a277-ab0d0f69df05",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_10",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:47:04.128398+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T16:49:39.642197+03:00",
+        "accepted_at": "2026-10-13T16:49:39.642197+03:00",
+        "started_at": "2026-10-13T16:47:04.128398+03:00",
+        "datetime": "2026-10-13T16:49:39.642197+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7e208ef6-a633-439e-a064-2c323bdaa7c0",
+        "end_date": "2026-10-13T16:51:24.789162+03:00",
+        "file_name": "071026_11",
+        "item_id": "70ae21f9-3649-4a1a-8057-4bd05585274e",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_11",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T16:49:39.849819+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-13T16:51:24.789162+03:00",
+        "accepted_at": "2026-10-13T16:51:24.789162+03:00",
+        "started_at": "2026-10-13T16:49:39.849819+03:00",
+        "datetime": "2026-10-13T16:51:24.789162+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "baab89ed-12a8-4e8a-ba4a-d8c65b912ba6",
+        "end_date": "2026-10-13T16:51:28.218839+03:00",
+        "file_name": "071026_8",
+        "item_id": "d158b3ca-4a33-4cfd-8f96-101601c5efb2",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_8",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:44:31.915073+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:51:28.218839+03:00",
+        "accepted_at": "2026-10-13T16:51:28.218839+03:00",
+        "started_at": "2026-10-13T16:44:31.915073+03:00",
+        "datetime": "2026-10-13T16:51:28.218839+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "f5feca44-e7cf-4bbd-b8b2-0e7830a5d5a9",
+        "end_date": "2026-10-13T16:52:10.005178+03:00",
+        "file_name": "071026_10",
+        "item_id": "be76a5ba-6f23-44b4-a277-ab0d0f69df05",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_10",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:48:21.889041+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T16:52:10.005178+03:00",
+        "accepted_at": "2026-10-13T16:52:10.005178+03:00",
+        "started_at": "2026-10-13T16:48:21.889041+03:00",
+        "datetime": "2026-10-13T16:52:10.005178+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "ba4389ea-0103-4829-8dcb-f88ed9cd643e",
+        "end_date": "2026-10-13T16:53:30.811577+03:00",
+        "file_name": "071026_12",
+        "item_id": "cd7e043d-2984-4baa-ac2c-fae1efcc930e",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_12",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:51:25.010778+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:53:30.811577+03:00",
+        "accepted_at": "2026-10-13T16:53:30.811577+03:00",
+        "started_at": "2026-10-13T16:51:25.010778+03:00",
+        "datetime": "2026-10-13T16:53:30.811577+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "dae4c2a0-b3bd-492a-8345-0e2c01c3cfb0",
+        "end_date": "2026-10-13T16:56:03.669017+03:00",
+        "file_name": "071026_11",
+        "item_id": "70ae21f9-3649-4a1a-8057-4bd05585274e",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_11",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T16:49:06.671323+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-13T16:56:03.669017+03:00",
+        "accepted_at": "2026-10-13T16:56:03.669017+03:00",
+        "started_at": "2026-10-13T16:49:06.671323+03:00",
+        "datetime": "2026-10-13T16:56:03.669017+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "3920a1a0-4a16-4705-ac26-601926030160",
+        "end_date": "2026-10-13T16:57:54.281475+03:00",
+        "file_name": "071026_13",
+        "item_id": "71616fb7-d747-4e66-996b-80e813d5fe0b",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_13",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-13T16:53:31.007711+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:57:54.281475+03:00",
+        "accepted_at": "2026-10-13T16:57:54.281475+03:00",
+        "started_at": "2026-10-13T16:53:31.007711+03:00",
+        "datetime": "2026-10-13T16:57:54.281475+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "30fb95d7-a671-476d-9d3a-3f77aa387773",
+        "end_date": "2026-10-13T16:57:57.648339+03:00",
+        "file_name": "071026_14",
+        "item_id": "3bd8dccb-f517-410e-8178-919a487f8c2c",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_14",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-13T16:53:33.024639+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.88,
+        "submitted_at": "2026-10-13T16:57:57.648339+03:00",
+        "accepted_at": "2026-10-13T16:57:57.648339+03:00",
+        "started_at": "2026-10-13T16:53:33.024639+03:00",
+        "datetime": "2026-10-13T16:57:57.648339+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "9d2b427e-b862-4184-916a-a2e3f049e79f",
+        "end_date": "2026-10-13T16:58:15.806771+03:00",
+        "file_name": "071026_12",
+        "item_id": "cd7e043d-2984-4baa-ac2c-fae1efcc930e",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_12",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:51:28.682903+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:58:15.806771+03:00",
+        "accepted_at": "2026-10-13T16:58:15.806771+03:00",
+        "started_at": "2026-10-13T16:51:28.682903+03:00",
+        "datetime": "2026-10-13T16:58:15.806771+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a4d25366-c94a-4f4c-ac5b-e787fbf90a0c",
+        "end_date": "2026-10-13T16:58:16.239805+03:00",
+        "file_name": "071026_13",
+        "item_id": "71616fb7-d747-4e66-996b-80e813d5fe0b",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_13",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-13T16:52:10.231062+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T16:58:16.239805+03:00",
+        "accepted_at": "2026-10-13T16:58:16.239805+03:00",
+        "started_at": "2026-10-13T16:52:10.231062+03:00",
+        "datetime": "2026-10-13T16:58:16.239805+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "ed344360-0b3a-43fe-825d-792491593259",
+        "end_date": "2026-10-13T16:59:06.455227+03:00",
+        "file_name": "071026_15",
+        "item_id": "e325c688-8676-48ba-87b7-e809e87776d9",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_15",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:57:54.465182+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-13T16:59:06.455227+03:00",
+        "accepted_at": "2026-10-13T16:59:06.455227+03:00",
+        "started_at": "2026-10-13T16:57:54.465182+03:00",
+        "datetime": "2026-10-13T16:59:06.455227+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a298d46a-070a-4bb3-9ded-e1568bb5836d",
+        "end_date": "2026-10-13T16:59:42.219519+03:00",
+        "file_name": "071026_14",
+        "item_id": "3bd8dccb-f517-410e-8178-919a487f8c2c",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_14",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:56:03.822832+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T16:59:42.219519+03:00",
+        "accepted_at": "2026-10-13T16:59:42.219519+03:00",
+        "started_at": "2026-10-13T16:56:03.822832+03:00",
+        "datetime": "2026-10-13T16:59:42.219519+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "6adc9816-9ec1-457b-895a-b8325c2bf647",
+        "end_date": "2026-10-13T17:00:53.539230+03:00",
+        "file_name": "071026_17",
+        "item_id": "abae07cb-82cf-426e-9871-debd8e5fd0ad",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_17",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T16:59:06.669625+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:00:53.539230+03:00",
+        "accepted_at": "2026-10-13T17:00:53.539230+03:00",
+        "started_at": "2026-10-13T16:59:06.669625+03:00",
+        "datetime": "2026-10-13T17:00:53.539230+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "72d30022-3771-44a3-9311-ae184ceaad98",
+        "end_date": "2026-10-13T17:02:04.582067+03:00",
+        "file_name": "071026_18",
+        "item_id": "2193f780-e345-45c0-977e-503ebe6d47b2",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_18",
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:00:53.736325+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:02:04.582067+03:00",
+        "accepted_at": "2026-10-13T17:02:04.582067+03:00",
+        "started_at": "2026-10-13T17:00:53.736325+03:00",
+        "datetime": "2026-10-13T17:02:04.582067+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "85ce87ea-022f-486d-8f98-c3f88a4218ca",
+        "end_date": "2026-10-13T17:02:44.321457+03:00",
+        "file_name": "071026_16",
+        "item_id": "e10b9ede-c603-4c48-b4a4-dd70c01962fc",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_16",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:58:16.493810+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-13T17:02:44.321457+03:00",
+        "accepted_at": "2026-10-13T17:02:44.321457+03:00",
+        "started_at": "2026-10-13T16:58:16.493810+03:00",
+        "datetime": "2026-10-13T17:02:44.321457+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "32c0f38c-994f-4d23-bc17-8295c62c7b61",
+        "end_date": "2026-10-13T17:02:54.192508+03:00",
+        "file_name": "071026_15",
+        "item_id": "e325c688-8676-48ba-87b7-e809e87776d9",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_15",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T16:57:57.765033+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:02:54.192508+03:00",
+        "accepted_at": "2026-10-13T17:02:54.192508+03:00",
+        "started_at": "2026-10-13T16:57:57.765033+03:00",
+        "datetime": "2026-10-13T17:02:54.192508+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "8b595333-0875-4646-b0d0-09982af17940",
+        "end_date": "2026-10-13T17:03:08.695159+03:00",
+        "file_name": "071026_17",
+        "item_id": "abae07cb-82cf-426e-9871-debd8e5fd0ad",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_17",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T16:59:42.721149+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:03:08.695159+03:00",
+        "accepted_at": "2026-10-13T17:03:08.695159+03:00",
+        "started_at": "2026-10-13T16:59:42.721149+03:00",
+        "datetime": "2026-10-13T17:03:08.695159+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a796051f-199e-4106-bd38-f53e43062816",
+        "end_date": "2026-10-13T17:03:30.141311+03:00",
+        "file_name": "071026_19",
+        "item_id": "f3dd27bd-ed67-47c8-90dc-7a1f7c78f26f",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_19",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:02:04.850358+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:03:30.141311+03:00",
+        "accepted_at": "2026-10-13T17:03:30.141311+03:00",
+        "started_at": "2026-10-13T17:02:04.850358+03:00",
+        "datetime": "2026-10-13T17:03:30.141311+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b9d36f5e-9fdb-449d-8de8-179297b40705",
+        "end_date": "2026-10-13T17:04:45.847253+03:00",
+        "file_name": "071026_20",
+        "item_id": "9aad6b5c-4d11-460a-a284-12d57b7cb596",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_20",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:03:30.351946+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-13T17:04:45.847253+03:00",
+        "accepted_at": "2026-10-13T17:04:45.847253+03:00",
+        "started_at": "2026-10-13T17:03:30.351946+03:00",
+        "datetime": "2026-10-13T17:04:45.847253+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a31fd889-707c-45c8-8b38-d69deebe1140",
+        "end_date": "2026-10-13T17:04:57.650708+03:00",
+        "file_name": "071026_18",
+        "item_id": "2193f780-e345-45c0-977e-503ebe6d47b2",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_18",
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:02:44.555602+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:04:57.650708+03:00",
+        "accepted_at": "2026-10-13T17:04:57.650708+03:00",
+        "started_at": "2026-10-13T17:02:44.555602+03:00",
+        "datetime": "2026-10-13T17:04:57.650708+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "1e67c291-9e45-4202-8b0d-929c5a6be292",
+        "end_date": "2026-10-13T17:06:57.108175+03:00",
+        "file_name": "071026_19",
+        "item_id": "f3dd27bd-ed67-47c8-90dc-7a1f7c78f26f",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_19",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:03:08.853252+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:06:57.108175+03:00",
+        "accepted_at": "2026-10-13T17:06:57.108175+03:00",
+        "started_at": "2026-10-13T17:03:08.853252+03:00",
+        "datetime": "2026-10-13T17:06:57.108175+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "57478ab9-246e-4e79-a17c-d040c8d8f167",
+        "end_date": "2026-10-13T17:08:12.535610+03:00",
+        "file_name": "071026_21",
+        "item_id": "09806f0e-ae05-43ea-91b3-7d87d2410079",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_21",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:04:46.343725+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:08:12.535610+03:00",
+        "accepted_at": "2026-10-13T17:08:12.535610+03:00",
+        "started_at": "2026-10-13T17:04:46.343725+03:00",
+        "datetime": "2026-10-13T17:08:12.535610+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "735e951a-9ea6-4ef2-95c2-eca9be724068",
+        "end_date": "2026-10-13T17:08:25.461605+03:00",
+        "file_name": "071026_20",
+        "item_id": "9aad6b5c-4d11-460a-a284-12d57b7cb596",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_20",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:04:57.844598+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:08:25.461605+03:00",
+        "accepted_at": "2026-10-13T17:08:25.461605+03:00",
+        "started_at": "2026-10-13T17:04:57.844598+03:00",
+        "datetime": "2026-10-13T17:08:25.461605+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b905b27d-bbaf-4fe0-85bc-a223d718a467",
+        "end_date": "2026-10-13T17:09:42.632326+03:00",
+        "file_name": "071026_22",
+        "item_id": "267e50c4-51e8-4154-a0fd-c090504e43b8",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_22",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:08:12.722615+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:09:42.632326+03:00",
+        "accepted_at": "2026-10-13T17:09:42.632326+03:00",
+        "started_at": "2026-10-13T17:08:12.722615+03:00",
+        "datetime": "2026-10-13T17:09:42.632326+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "911e2938-e17d-4f9d-a4c8-97164ff55cb5",
+        "end_date": "2026-10-13T17:11:36.593296+03:00",
+        "file_name": "071026_23",
+        "item_id": "a4a30d89-6afd-4fdf-8405-40f345e26d5b",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_23",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-13T17:09:43.028728+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:11:36.593296+03:00",
+        "accepted_at": "2026-10-13T17:11:36.593296+03:00",
+        "started_at": "2026-10-13T17:09:43.028728+03:00",
+        "datetime": "2026-10-13T17:11:36.593296+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "968d5dce-1dc0-419b-b7e4-0f5efa2b65bc",
+        "end_date": "2026-10-13T17:13:12.145963+03:00",
+        "file_name": "071026_24",
+        "item_id": "2653a4be-f8a9-4ea7-b8b3-3981357695f3",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_24",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-13T17:11:36.809593+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:13:12.145963+03:00",
+        "accepted_at": "2026-10-13T17:13:12.145963+03:00",
+        "started_at": "2026-10-13T17:11:36.809593+03:00",
+        "datetime": "2026-10-13T17:13:12.145963+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "8a610d52-8122-4085-beed-2f8b11eb15ab",
+        "end_date": "2026-10-13T17:13:18.260715+03:00",
+        "file_name": "071026_16",
+        "item_id": "e10b9ede-c603-4c48-b4a4-dd70c01962fc",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T16:58:16.322404+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T17:13:18.260715+03:00",
+        "started_at": "2026-10-13T16:58:16.322404+03:00",
+        "datetime": "2026-10-13T17:13:18.260715+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "22fbb22b-8090-4bda-adaf-ed54d4600690",
+        "end_date": "2026-10-13T17:13:47.292196+03:00",
+        "file_name": "071026_22",
+        "item_id": "267e50c4-51e8-4154-a0fd-c090504e43b8",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_22",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:08:25.655377+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-13T17:13:47.292196+03:00",
+        "accepted_at": "2026-10-13T17:13:47.292196+03:00",
+        "started_at": "2026-10-13T17:08:25.655377+03:00",
+        "datetime": "2026-10-13T17:13:47.292196+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "fa7a784c-090a-4d29-ba5e-47ac78b59068",
+        "end_date": "2026-10-13T17:16:42.861016+03:00",
+        "file_name": "071026_23",
+        "item_id": "a4a30d89-6afd-4fdf-8405-40f345e26d5b",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_23",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T17:13:47.516506+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:16:42.861016+03:00",
+        "accepted_at": "2026-10-13T17:16:42.861016+03:00",
+        "started_at": "2026-10-13T17:13:47.516506+03:00",
+        "datetime": "2026-10-13T17:16:42.861016+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "6b600e13-f8d5-4e64-8d20-dc73b7054adf",
+        "end_date": "2026-10-13T17:17:01.203144+03:00",
+        "file_name": "071026_25",
+        "item_id": "0b5fd515-b06e-4969-a903-5dafde380ef1",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_25",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:13:12.355036+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T17:17:01.203144+03:00",
+        "accepted_at": "2026-10-13T17:17:01.203144+03:00",
+        "started_at": "2026-10-13T17:13:12.355036+03:00",
+        "datetime": "2026-10-13T17:17:01.203144+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "07dffbcf-41e6-49af-ab04-41d52a19196c",
+        "end_date": "2026-10-13T17:18:22.773605+03:00",
+        "file_name": "071026_16",
+        "item_id": "e10b9ede-c603-4c48-b4a4-dd70c01962fc",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_16",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:17:01.408521+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:18:22.773605+03:00",
+        "accepted_at": "2026-10-13T17:18:22.773605+03:00",
+        "started_at": "2026-10-13T17:17:01.408521+03:00",
+        "datetime": "2026-10-13T17:18:22.773605+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "cada22af-3fdc-4b6f-936c-e65562f5ae39",
+        "end_date": "2026-10-13T17:20:19.791920+03:00",
+        "file_name": "071026_26",
+        "item_id": "ba5afa9c-d405-43dc-b357-58c8dee91671",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_26",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:18:22.966711+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-13T17:20:19.791920+03:00",
+        "accepted_at": "2026-10-13T17:20:19.791920+03:00",
+        "started_at": "2026-10-13T17:18:22.966711+03:00",
+        "datetime": "2026-10-13T17:20:19.791920+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "d77114d9-411b-4064-b412-0b577bc1e87e",
+        "end_date": "2026-10-13T17:20:48.235668+03:00",
+        "file_name": "071026_24",
+        "item_id": "2653a4be-f8a9-4ea7-b8b3-3981357695f3",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_24",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:16:43.041150+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-13T17:20:48.235668+03:00",
+        "accepted_at": "2026-10-13T17:20:48.235668+03:00",
+        "started_at": "2026-10-13T17:16:43.041150+03:00",
+        "datetime": "2026-10-13T17:20:48.235668+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "979cfff7-bb5f-455f-a2ce-d896675bcab9",
+        "end_date": "2026-10-13T17:21:57.661421+03:00",
+        "file_name": "071026_21",
+        "item_id": "09806f0e-ae05-43ea-91b3-7d87d2410079",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-13T17:06:57.268628+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-13T17:21:57.661421+03:00",
+        "started_at": "2026-10-13T17:06:57.268628+03:00",
+        "datetime": "2026-10-13T17:21:57.661421+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "1403fe61-5435-46ef-a482-ba2bc2d9f6dd",
+        "end_date": "2026-10-13T17:23:41.894965+03:00",
+        "file_name": "071026_21",
+        "item_id": "09806f0e-ae05-43ea-91b3-7d87d2410079",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_21",
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:21:59.671581+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T17:23:41.894965+03:00",
+        "accepted_at": "2026-10-13T17:23:41.894965+03:00",
+        "started_at": "2026-10-13T17:21:59.671581+03:00",
+        "datetime": "2026-10-13T17:23:41.894965+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "5aef4312-aa6f-4295-a461-a2f40c7e0fc0",
+        "end_date": "2026-10-13T17:25:02.857499+03:00",
+        "file_name": "071026_27",
+        "item_id": "34cbf6a8-afc3-4348-a9b5-a3467528634c",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_27",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:20:19.972930+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:25:02.857499+03:00",
+        "accepted_at": "2026-10-13T17:25:02.857499+03:00",
+        "started_at": "2026-10-13T17:20:19.972930+03:00",
+        "datetime": "2026-10-13T17:25:02.857499+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "831d6de1-c727-4789-97e6-f70b527dc54a",
+        "end_date": "2026-10-13T17:27:56.537044+03:00",
+        "file_name": "071026_28",
+        "item_id": "b51daeec-8154-4b89-b43d-0dcb0f985bfc",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_28",
+            "agent_code": "get_bank_improvement_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:25:03.055711+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:27:56.537044+03:00",
+        "accepted_at": "2026-10-13T17:27:56.537044+03:00",
+        "started_at": "2026-10-13T17:25:03.055711+03:00",
+        "datetime": "2026-10-13T17:27:56.537044+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "85e423d4-3bc2-4996-82ce-31dd4a557ddc",
+        "end_date": "2026-10-13T17:28:20.248034+03:00",
+        "file_name": "071026_25",
+        "item_id": "0b5fd515-b06e-4969-a903-5dafde380ef1",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_25",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T17:20:48.432205+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:28:20.248034+03:00",
+        "accepted_at": "2026-10-13T17:28:20.248034+03:00",
+        "started_at": "2026-10-13T17:20:48.432205+03:00",
+        "datetime": "2026-10-13T17:28:20.248034+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b854051a-1b3a-4bb4-a06d-772c01d8dd5c",
+        "end_date": "2026-10-13T17:29:18.549033+03:00",
+        "file_name": "071026_26",
+        "item_id": "ba5afa9c-d405-43dc-b357-58c8dee91671",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_26",
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:23:42.047828+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:29:18.549033+03:00",
+        "accepted_at": "2026-10-13T17:29:18.549033+03:00",
+        "started_at": "2026-10-13T17:23:42.047828+03:00",
+        "datetime": "2026-10-13T17:29:18.549033+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "0dfc6c89-f49e-4e3b-916c-92382a1ed3ec",
+        "end_date": "2026-10-13T17:29:27.932822+03:00",
+        "file_name": "071026_29",
+        "item_id": "39e8f8ec-7643-46ef-9027-eaef5148fdf9",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_29",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:27:56.806265+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:29:27.932822+03:00",
+        "accepted_at": "2026-10-13T17:29:27.932822+03:00",
+        "started_at": "2026-10-13T17:27:56.806265+03:00",
+        "datetime": "2026-10-13T17:29:27.932822+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "18bedeb0-4a45-47d4-a4fb-5cc486efab71",
+        "end_date": "2026-10-13T17:30:39.979878+03:00",
+        "file_name": "071026_30",
+        "item_id": "9b21b0cd-479c-483f-910a-afecaf3052e7",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_30",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:29:28.125451+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:30:39.979878+03:00",
+        "accepted_at": "2026-10-13T17:30:39.979878+03:00",
+        "started_at": "2026-10-13T17:29:28.125451+03:00",
+        "datetime": "2026-10-13T17:30:39.979878+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "30d0bde0-5fa4-4bdb-8648-71763735b7ff",
+        "end_date": "2026-10-13T17:31:05.981031+03:00",
+        "file_name": "071026_31",
+        "item_id": "f5156392-a750-4be5-81e7-96f77bddd310",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_31",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:30:40.172101+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:31:05.981031+03:00",
+        "accepted_at": "2026-10-13T17:31:05.981031+03:00",
+        "started_at": "2026-10-13T17:30:40.172101+03:00",
+        "datetime": "2026-10-13T17:31:05.981031+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "1304af8d-eac7-4f89-850b-9155f6cf756d",
+        "end_date": "2026-10-13T17:31:48.319545+03:00",
+        "file_name": "071026_28",
+        "item_id": "b51daeec-8154-4b89-b43d-0dcb0f985bfc",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_28",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:29:18.721506+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-13T17:31:48.319545+03:00",
+        "accepted_at": "2026-10-13T17:31:48.319545+03:00",
+        "started_at": "2026-10-13T17:29:18.721506+03:00",
+        "datetime": "2026-10-13T17:31:48.319545+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "cc62ab58-ba95-409e-bfec-e1dd7479b624",
+        "end_date": "2026-10-13T17:32:05.729004+03:00",
+        "file_name": "071026_32",
+        "item_id": "c2f54af5-ee24-47fa-995e-3de994245427",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_32",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:31:06.192057+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T17:32:05.729004+03:00",
+        "accepted_at": "2026-10-13T17:32:05.729004+03:00",
+        "started_at": "2026-10-13T17:31:06.192057+03:00",
+        "datetime": "2026-10-13T17:32:05.729004+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "9bfc132b-069d-4509-b1e5-b4cfb9b2a7f4",
+        "end_date": "2026-10-13T17:33:29.073106+03:00",
+        "file_name": "071026_33",
+        "item_id": "8502d24b-3d39-49b9-ab29-93553d37ef6c",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_33",
+            "agent_code": "get_bank_improvement_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:32:05.964427+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:33:29.073106+03:00",
+        "accepted_at": "2026-10-13T17:33:29.073106+03:00",
+        "started_at": "2026-10-13T17:32:05.964427+03:00",
+        "datetime": "2026-10-13T17:33:29.073106+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b10fb80d-7a71-45cd-a99c-e006bfbed993",
+        "end_date": "2026-10-13T17:33:56.811356+03:00",
+        "file_name": "071026_27",
+        "item_id": "34cbf6a8-afc3-4348-a9b5-a3467528634c",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_27",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:28:20.442347+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:33:56.811356+03:00",
+        "accepted_at": "2026-10-13T17:33:56.811356+03:00",
+        "started_at": "2026-10-13T17:28:20.442347+03:00",
+        "datetime": "2026-10-13T17:33:56.811356+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "241cfaf2-33bb-46d1-812a-b0032eef6fd2",
+        "end_date": "2026-10-13T17:34:42.404671+03:00",
+        "file_name": "071026_34",
+        "item_id": "67df6760-ad9f-4059-bc9b-1a04ffe15d75",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_34",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:33:29.270703+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-13T17:34:42.404671+03:00",
+        "accepted_at": "2026-10-13T17:34:42.404671+03:00",
+        "started_at": "2026-10-13T17:33:29.270703+03:00",
+        "datetime": "2026-10-13T17:34:42.404671+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "59a6b753-503b-46c2-9f79-613c631058dd",
+        "end_date": "2026-10-13T17:35:33.638896+03:00",
+        "file_name": "071026_35",
+        "item_id": "1e8d18c9-551c-471a-97b6-33b8827c4b95",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_35",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:34:42.579153+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:35:33.638896+03:00",
+        "accepted_at": "2026-10-13T17:35:33.638896+03:00",
+        "started_at": "2026-10-13T17:34:42.579153+03:00",
+        "datetime": "2026-10-13T17:35:33.638896+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "5c854f83-e5d6-4fd4-ab6c-0533cc77518b",
+        "end_date": "2026-10-13T17:38:33.412701+03:00",
+        "file_name": "071026_30",
+        "item_id": "9b21b0cd-479c-483f-910a-afecaf3052e7",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_30",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:33:57.029841+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:38:33.412701+03:00",
+        "accepted_at": "2026-10-13T17:38:33.412701+03:00",
+        "started_at": "2026-10-13T17:33:57.029841+03:00",
+        "datetime": "2026-10-13T17:38:33.412701+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7575aa1c-851c-4038-9db4-5d7d639b41c3",
+        "end_date": "2026-10-13T17:38:51.953130+03:00",
+        "file_name": "071026_29",
+        "item_id": "39e8f8ec-7643-46ef-9027-eaef5148fdf9",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_29",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:31:48.486053+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:38:51.953130+03:00",
+        "accepted_at": "2026-10-13T17:38:51.953130+03:00",
+        "started_at": "2026-10-13T17:31:48.486053+03:00",
+        "datetime": "2026-10-13T17:38:51.953130+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "1ea92147-a1cd-4878-b303-3bddb73948e6",
+        "end_date": "2026-10-13T17:39:02.290448+03:00",
+        "file_name": "071026_36",
+        "item_id": "0f58e847-25a9-4c5b-ac5b-903cc64d23f9",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_36",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:35:33.833929+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:39:02.290448+03:00",
+        "accepted_at": "2026-10-13T17:39:02.290448+03:00",
+        "started_at": "2026-10-13T17:35:33.833929+03:00",
+        "datetime": "2026-10-13T17:39:02.290448+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "093c59cb-1302-4f07-9206-b0678813e5ea",
+        "end_date": "2026-10-13T17:39:55.513017+03:00",
+        "file_name": "071026_31",
+        "item_id": "f5156392-a750-4be5-81e7-96f77bddd310",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_31",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:38:33.608464+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:39:55.513017+03:00",
+        "accepted_at": "2026-10-13T17:39:55.513017+03:00",
+        "started_at": "2026-10-13T17:38:33.608464+03:00",
+        "datetime": "2026-10-13T17:39:55.513017+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "e2b352d3-7fb6-4948-844e-cc7fb8570452",
+        "end_date": "2026-10-13T17:40:03.229105+03:00",
+        "file_name": "071026_37",
+        "item_id": "ceabe192-bcd9-487d-b927-fa8598b8148a",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_37",
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:39:02.499651+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:40:03.229105+03:00",
+        "accepted_at": "2026-10-13T17:40:03.229105+03:00",
+        "started_at": "2026-10-13T17:39:02.499651+03:00",
+        "datetime": "2026-10-13T17:40:03.229105+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "e2d48649-b433-4be8-872f-34c004112b64",
+        "end_date": "2026-10-13T17:41:26.175649+03:00",
+        "file_name": "071026_38",
+        "item_id": "4eb5edd1-4b09-43c1-9efc-121ae0909808",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_38",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:40:03.426081+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-13T17:41:26.175649+03:00",
+        "accepted_at": "2026-10-13T17:41:26.175649+03:00",
+        "started_at": "2026-10-13T17:40:03.426081+03:00",
+        "datetime": "2026-10-13T17:41:26.175649+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "2782f59f-6b52-4d8b-a11a-33b55515c184",
+        "end_date": "2026-10-13T17:43:23.011175+03:00",
+        "file_name": "071026_39",
+        "item_id": "c4b5b7c7-23a4-4481-9d2c-e8cc1228a80e",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_39",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:41:26.377974+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:43:23.011175+03:00",
+        "accepted_at": "2026-10-13T17:43:23.011175+03:00",
+        "started_at": "2026-10-13T17:41:26.377974+03:00",
+        "datetime": "2026-10-13T17:43:23.011175+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "ce12bb04-3523-4379-bcd4-e3b8613df4bb",
+        "end_date": "2026-10-13T17:45:30.265066+03:00",
+        "file_name": "071026_40",
+        "item_id": "6fc25550-be66-4d9b-8ad3-33669942d794",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_40",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:43:23.217966+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:45:30.265066+03:00",
+        "accepted_at": "2026-10-13T17:45:30.265066+03:00",
+        "started_at": "2026-10-13T17:43:23.217966+03:00",
+        "datetime": "2026-10-13T17:45:30.265066+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "0fd3b857-a7f4-4094-bdcc-0d3e1f8388c8",
+        "end_date": "2026-10-13T17:45:33.725835+03:00",
+        "file_name": "071026_33",
+        "item_id": "8502d24b-3d39-49b9-ab29-93553d37ef6c",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_33",
+            "agent_code": "get_bank_improvement_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:39:55.741289+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:45:33.725835+03:00",
+        "accepted_at": "2026-10-13T17:45:33.725835+03:00",
+        "started_at": "2026-10-13T17:39:55.741289+03:00",
+        "datetime": "2026-10-13T17:45:33.725835+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "519e4deb-396b-45c7-9bab-3d88889f171f",
+        "end_date": "2026-10-13T17:47:43.475295+03:00",
+        "file_name": "071026_41",
+        "item_id": "4802ff09-d144-48d3-8d7a-60ec26f32fd1",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_41",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:45:30.473970+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T17:47:43.475295+03:00",
+        "accepted_at": "2026-10-13T17:47:43.475295+03:00",
+        "started_at": "2026-10-13T17:45:30.473970+03:00",
+        "datetime": "2026-10-13T17:47:43.475295+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "93e7a16d-8ce0-4270-857a-188461e54fbd",
+        "end_date": "2026-10-13T17:48:52.153966+03:00",
+        "file_name": "071026_32",
+        "item_id": "c2f54af5-ee24-47fa-995e-3de994245427",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_32",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:38:52.111830+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-13T17:48:52.153966+03:00",
+        "accepted_at": "2026-10-13T17:48:52.153966+03:00",
+        "started_at": "2026-10-13T17:38:52.111830+03:00",
+        "datetime": "2026-10-13T17:48:52.153966+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "66385ad5-9136-41fa-b5be-103193fb2909",
+        "end_date": "2026-10-13T17:49:24.484757+03:00",
+        "file_name": "071026_42",
+        "item_id": "4885bee6-a11b-4e84-b849-454421f0f4ea",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_42",
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:47:43.693014+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:49:24.484757+03:00",
+        "accepted_at": "2026-10-13T17:49:24.484757+03:00",
+        "started_at": "2026-10-13T17:47:43.693014+03:00",
+        "datetime": "2026-10-13T17:49:24.484757+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "92d6ee4a-c1db-47f1-a0d5-73a83f1956c5",
+        "end_date": "2026-10-13T17:49:39.267880+03:00",
+        "file_name": "071026_43",
+        "item_id": "faf25a24-3610-4313-ad10-f1e6ee90abae",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_43",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:49:24.688791+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:49:39.267880+03:00",
+        "accepted_at": "2026-10-13T17:49:39.267880+03:00",
+        "started_at": "2026-10-13T17:49:24.688791+03:00",
+        "datetime": "2026-10-13T17:49:39.267880+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "37b8a714-9ff6-4b01-878d-6756c1a27fc3",
+        "end_date": "2026-10-13T17:50:21.550496+03:00",
+        "file_name": "071026_44",
+        "item_id": "59b8198b-4b04-42a8-ae2d-0a4fbfddc4f7",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_44",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:49:39.453765+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:50:21.550496+03:00",
+        "accepted_at": "2026-10-13T17:50:21.550496+03:00",
+        "started_at": "2026-10-13T17:49:39.453765+03:00",
+        "datetime": "2026-10-13T17:50:21.550496+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "6292cf9d-ef65-4d82-82ae-4724e7999ce1",
+        "end_date": "2026-10-13T17:51:21.313187+03:00",
+        "file_name": "071026_45",
+        "item_id": "fe4bb650-fbc4-4725-9868-c5606d0ad0af",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_45",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-13T17:50:21.753220+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:51:21.313187+03:00",
+        "accepted_at": "2026-10-13T17:51:21.313187+03:00",
+        "started_at": "2026-10-13T17:50:21.753220+03:00",
+        "datetime": "2026-10-13T17:51:21.313187+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "ace83b4f-5ced-405c-9b7c-964b5a6990ee",
+        "end_date": "2026-10-13T17:52:56.645663+03:00",
+        "file_name": "071026_46",
+        "item_id": "260bdccf-082d-45e4-ba4a-7f87ff4c354b",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_46",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:51:21.515676+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:52:56.645663+03:00",
+        "accepted_at": "2026-10-13T17:52:56.645663+03:00",
+        "started_at": "2026-10-13T17:51:21.515676+03:00",
+        "datetime": "2026-10-13T17:52:56.645663+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "d8121d7d-1f8b-456b-b496-e10cbafe3209",
+        "end_date": "2026-10-13T17:53:29.208615+03:00",
+        "file_name": "071026_47",
+        "item_id": "587218b1-da1d-485e-b0a9-1aa13b480cce",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_47",
+            "agent_code": "get_bank_improvement_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:52:56.862391+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:53:29.208615+03:00",
+        "accepted_at": "2026-10-13T17:53:29.208615+03:00",
+        "started_at": "2026-10-13T17:52:56.862391+03:00",
+        "datetime": "2026-10-13T17:53:29.208615+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a3aacdec-8255-4a3c-808e-ed559fc2a269",
+        "end_date": "2026-10-13T17:54:09.953406+03:00",
+        "file_name": "071026_48",
+        "item_id": "d24fe171-ab0d-44ba-854a-9671b2fed811",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_48",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:53:29.404068+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:54:09.953406+03:00",
+        "accepted_at": "2026-10-13T17:54:09.953406+03:00",
+        "started_at": "2026-10-13T17:53:29.404068+03:00",
+        "datetime": "2026-10-13T17:54:09.953406+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "84b308e7-6f74-4439-b964-10857998d8b3",
+        "end_date": "2026-10-13T17:54:14.797806+03:00",
+        "file_name": "071026_34",
+        "item_id": "67df6760-ad9f-4059-bc9b-1a04ffe15d75",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_34",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:45:33.950502+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:54:14.797806+03:00",
+        "accepted_at": "2026-10-13T17:54:14.797806+03:00",
+        "started_at": "2026-10-13T17:45:33.950502+03:00",
+        "datetime": "2026-10-13T17:54:14.797806+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "1ab4cbd0-32b7-4f7a-b36b-0a9ef99fdf47",
+        "end_date": "2026-10-13T17:54:42.920520+03:00",
+        "file_name": "071026_49",
+        "item_id": "74b5d2f6-1d0f-44ee-8b6c-c1dd093f3e2e",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_49",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:54:10.210966+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:54:42.920520+03:00",
+        "accepted_at": "2026-10-13T17:54:42.920520+03:00",
+        "started_at": "2026-10-13T17:54:10.210966+03:00",
+        "datetime": "2026-10-13T17:54:42.920520+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "dbd69c6c-647d-4c9f-b674-e933a0a2197a",
+        "end_date": "2026-10-13T17:55:00.526470+03:00",
+        "file_name": "071026_36",
+        "item_id": "0f58e847-25a9-4c5b-ac5b-903cc64d23f9",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_36",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:54:15.029072+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:55:00.526470+03:00",
+        "accepted_at": "2026-10-13T17:55:00.526470+03:00",
+        "started_at": "2026-10-13T17:54:15.029072+03:00",
+        "datetime": "2026-10-13T17:55:00.526470+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "daa07341-ba36-44f2-9818-c08352bdc748",
+        "end_date": "2026-10-13T17:55:38.492018+03:00",
+        "file_name": "071026_37",
+        "item_id": "ceabe192-bcd9-487d-b927-fa8598b8148a",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_37",
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:55:00.761541+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T17:55:38.492018+03:00",
+        "accepted_at": "2026-10-13T17:55:38.492018+03:00",
+        "started_at": "2026-10-13T17:55:00.761541+03:00",
+        "datetime": "2026-10-13T17:55:38.492018+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "e60d9b32-823e-4a03-8c28-4fd63e6a1b17",
+        "end_date": "2026-10-13T17:57:11.981718+03:00",
+        "file_name": "071026_50",
+        "item_id": "32618bdc-fc63-4743-8b92-6b50c9abf215",
+        "item_type": "data",
+        "marker_id": "0098f68a-cbce-4b43-bca3-e9d49de4a172",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9cfbc7e3-8fb5-4cbd-9932-f2d773b63a11"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_50",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:54:43.097454+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T17:57:11.981718+03:00",
+        "accepted_at": "2026-10-13T17:57:11.981718+03:00",
+        "started_at": "2026-10-13T17:54:43.097454+03:00",
+        "datetime": "2026-10-13T17:57:11.981718+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7a90fd73-1eaa-47a9-807c-25b490788255",
+        "end_date": "2026-10-13T17:59:17.514886+03:00",
+        "file_name": "071026_38",
+        "item_id": "4eb5edd1-4b09-43c1-9efc-121ae0909808",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_38",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:55:38.717824+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-13T17:59:17.514886+03:00",
+        "accepted_at": "2026-10-13T17:59:17.514886+03:00",
+        "started_at": "2026-10-13T17:55:38.717824+03:00",
+        "datetime": "2026-10-13T17:59:17.514886+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "6645f5cc-75e0-488c-963b-aa285516df0c",
+        "end_date": "2026-10-13T18:03:36.166594+03:00",
+        "file_name": "071026_35",
+        "item_id": "1e8d18c9-551c-471a-97b6-33b8827c4b95",
+        "item_type": "data",
+        "marker_id": "2567faaf-5ef6-46f4-a7ef-e2aadcab42f6",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "9a953c7e-c3ee-4a40-b808-9e328c27269c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_35",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T17:48:52.313950+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T18:03:36.166594+03:00",
+        "accepted_at": "2026-10-13T18:03:36.166594+03:00",
+        "started_at": "2026-10-13T17:48:52.313950+03:00",
+        "datetime": "2026-10-13T18:03:36.166594+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "351bb155-7cea-4a4c-b317-7efb1c710d5c",
+        "end_date": "2026-10-13T18:10:22.627335+03:00",
+        "file_name": "071026_39",
+        "item_id": "c4b5b7c7-23a4-4481-9d2c-e8cc1228a80e",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_39",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-13T17:59:17.740628+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-13T18:10:22.627335+03:00",
+        "accepted_at": "2026-10-13T18:10:22.627335+03:00",
+        "started_at": "2026-10-13T17:59:17.740628+03:00",
+        "datetime": "2026-10-13T18:10:22.627335+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7c60e3b8-45b5-4f17-befe-9cc896a16165",
+        "end_date": "2026-10-13T18:12:13.180404+03:00",
+        "file_name": "071026_40",
+        "item_id": "6fc25550-be66-4d9b-8ad3-33669942d794",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_40",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T18:10:22.847723+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-13T18:12:13.180404+03:00",
+        "accepted_at": "2026-10-13T18:12:13.180404+03:00",
+        "started_at": "2026-10-13T18:10:22.847723+03:00",
+        "datetime": "2026-10-13T18:12:13.180404+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "6d9a106c-298d-4a0d-8079-47abc950b2c7",
+        "end_date": "2026-10-13T18:13:33.580175+03:00",
+        "file_name": "071026_41",
+        "item_id": "4802ff09-d144-48d3-8d7a-60ec26f32fd1",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_41",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "config_request"
+        },
+        "start_date": "2026-10-13T18:12:13.405455+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-13T18:13:33.580175+03:00",
+        "accepted_at": "2026-10-13T18:13:33.580175+03:00",
+        "started_at": "2026-10-13T18:12:13.405455+03:00",
+        "datetime": "2026-10-13T18:13:33.580175+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "4c1e0604-ee8c-4ebb-84a7-7cab9ab61ac9",
+        "end_date": "2026-10-13T18:15:20.807599+03:00",
+        "file_name": "071026_42",
+        "item_id": "4885bee6-a11b-4e84-b849-454421f0f4ea",
+        "item_type": "data",
+        "marker_id": "5415101c-fa23-4352-8412-3895912afe29",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "17d9f816-d54a-4ed1-8354-a5e3f6c29b7d"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_42",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-13T18:13:33.804728+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-13T18:15:20.807599+03:00",
+        "accepted_at": "2026-10-13T18:15:20.807599+03:00",
+        "started_at": "2026-10-13T18:13:33.804728+03:00",
+        "datetime": "2026-10-13T18:15:20.807599+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a7c16f14-819a-4611-9aa5-f264365d318d",
+        "end_date": "2026-10-14T07:17:30.648519+03:00",
+        "file_name": "071026_43",
+        "item_id": "faf25a24-3610-4313-ad10-f1e6ee90abae",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "start_date": "2026-10-14T07:02:28.853987+03:00",
+        "status": "EXPIRED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "expired_at": "2026-10-14T07:17:30.648519+03:00",
+        "started_at": "2026-10-14T07:02:28.853987+03:00",
+        "datetime": "2026-10-14T07:17:30.648519+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "2dbddec8-abd1-4f6f-86a6-82729ed1d975",
+        "end_date": "2026-10-14T07:59:49.179823+03:00",
+        "file_name": "071026_43",
+        "item_id": "faf25a24-3610-4313-ad10-f1e6ee90abae",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_43",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-14T07:46:01.797138+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-14T07:59:49.179823+03:00",
+        "accepted_at": "2026-10-14T07:59:49.179823+03:00",
+        "started_at": "2026-10-14T07:46:01.797138+03:00",
+        "datetime": "2026-10-14T07:59:49.179823+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b3f7e794-1af5-4996-9305-4656460c7343",
+        "end_date": "2026-10-14T08:05:41.427828+03:00",
+        "file_name": "071026_45",
+        "item_id": "fe4bb650-fbc4-4725-9868-c5606d0ad0af",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_45",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-14T07:59:49.292066+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-14T08:05:41.427828+03:00",
+        "accepted_at": "2026-10-14T08:05:41.427828+03:00",
+        "started_at": "2026-10-14T07:59:49.292066+03:00",
+        "datetime": "2026-10-14T08:05:41.427828+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "ffa554a9-73ad-44b0-aded-e508cce9569b",
+        "end_date": "2026-10-14T08:09:07.482647+03:00",
+        "file_name": "071026_46",
+        "item_id": "260bdccf-082d-45e4-ba4a-7f87ff4c354b",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_46",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-14T08:05:41.547888+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-14T08:09:07.482647+03:00",
+        "accepted_at": "2026-10-14T08:09:07.482647+03:00",
+        "started_at": "2026-10-14T08:05:41.547888+03:00",
+        "datetime": "2026-10-14T08:09:07.482647+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "9d9497b3-490b-44d0-84eb-d97df2d13e3b",
+        "end_date": "2026-10-14T08:10:25.319896+03:00",
+        "file_name": "071026_44",
+        "item_id": "59b8198b-4b04-42a8-ae2d-0a4fbfddc4f7",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_44",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-14T07:58:23.957255+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-14T08:10:25.319896+03:00",
+        "accepted_at": "2026-10-14T08:10:25.319896+03:00",
+        "started_at": "2026-10-14T07:58:23.957255+03:00",
+        "datetime": "2026-10-14T08:10:25.319896+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "b0a19196-b825-4284-bb76-5ec41e7be567",
+        "end_date": "2026-10-14T08:18:09.778548+03:00",
+        "file_name": "071026_48",
+        "item_id": "d24fe171-ab0d-44ba-854a-9671b2fed811",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_48",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-14T08:10:25.749789+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-14T08:18:09.778548+03:00",
+        "accepted_at": "2026-10-14T08:18:09.778548+03:00",
+        "started_at": "2026-10-14T08:10:25.749789+03:00",
+        "datetime": "2026-10-14T08:18:09.778548+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "bf8392c8-3345-4ebb-b20e-d1b5cdaace0c",
+        "end_date": "2026-10-14T08:18:12.934746+03:00",
+        "file_name": "071026_47",
+        "item_id": "587218b1-da1d-485e-b0a9-1aa13b480cce",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_47",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-14T08:09:07.645377+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-14T08:18:12.934746+03:00",
+        "accepted_at": "2026-10-14T08:18:12.934746+03:00",
+        "started_at": "2026-10-14T08:09:07.645377+03:00",
+        "datetime": "2026-10-14T08:18:12.934746+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "05868609-d55f-41ff-86b2-9ace3790d16d",
+        "end_date": "2026-10-14T08:21:38.773358+03:00",
+        "file_name": "071026_49",
+        "item_id": "74b5d2f6-1d0f-44ee-8b6c-c1dd093f3e2e",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_49",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-14T08:18:10.072342+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 1,
+        "submitted_at": "2026-10-14T08:21:38.773358+03:00",
+        "accepted_at": "2026-10-14T08:21:38.773358+03:00",
+        "started_at": "2026-10-14T08:18:10.072342+03:00",
+        "datetime": "2026-10-14T08:21:38.773358+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "bed7af70-4510-4f8c-8be0-1411ca88b9a3",
+        "end_date": "2026-10-14T08:23:40.025846+03:00",
+        "file_name": "071026_50",
+        "item_id": "32618bdc-fc63-4743-8b92-6b50c9abf215",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_50",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-14T08:18:13.040986+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-14T08:23:40.025846+03:00",
+        "accepted_at": "2026-10-14T08:23:40.025846+03:00",
+        "started_at": "2026-10-14T08:18:13.040986+03:00",
+        "datetime": "2026-10-14T08:23:40.025846+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "3378d304-70da-446f-8b9e-ef774313d966",
+        "end_date": "2026-10-15T07:54:10.855996+03:00",
+        "file_name": "071026_2",
+        "item_id": "882cbb52-9c73-42c7-98b3-8347fdb6ecb9",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_2",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_tool_required"
+        },
+        "start_date": "2026-10-15T07:52:04.223207+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.88,
+        "submitted_at": "2026-10-15T07:54:10.855996+03:00",
+        "accepted_at": "2026-10-15T07:54:10.855996+03:00",
+        "started_at": "2026-10-15T07:52:04.223207+03:00",
+        "datetime": "2026-10-15T07:54:10.855996+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "d950f29e-0b35-481a-81f3-522e5c12358e",
+        "end_date": "2026-10-15T07:56:31.254711+03:00",
+        "file_name": "071026_5",
+        "item_id": "445c2e31-b8fd-4e33-95ca-650e1facb3cd",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_5",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T07:52:15.626170+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-15T07:56:31.254711+03:00",
+        "accepted_at": "2026-10-15T07:56:31.254711+03:00",
+        "started_at": "2026-10-15T07:52:15.626170+03:00",
+        "datetime": "2026-10-15T07:56:31.254711+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "d2effb12-3ff0-4cf0-b3c8-828326a468d0",
+        "end_date": "2026-10-15T07:57:49.167184+03:00",
+        "file_name": "071026_10",
+        "item_id": "be76a5ba-6f23-44b4-a277-ab0d0f69df05",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_10",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T07:54:11.002756+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-15T07:57:49.167184+03:00",
+        "accepted_at": "2026-10-15T07:57:49.167184+03:00",
+        "started_at": "2026-10-15T07:54:11.002756+03:00",
+        "datetime": "2026-10-15T07:57:49.167184+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "bafc267c-03aa-4ba1-8328-36500cd05e50",
+        "end_date": "2026-10-15T07:59:21.099900+03:00",
+        "file_name": "071026_11",
+        "item_id": "70ae21f9-3649-4a1a-8057-4bd05585274e",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_11",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T07:56:31.726633+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-15T07:59:21.099900+03:00",
+        "accepted_at": "2026-10-15T07:59:21.099900+03:00",
+        "started_at": "2026-10-15T07:56:31.726633+03:00",
+        "datetime": "2026-10-15T07:59:21.099900+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "483a27e2-3898-4b84-94d1-8f44d32b8154",
+        "end_date": "2026-10-15T08:00:05.128871+03:00",
+        "file_name": "071026_16",
+        "item_id": "e10b9ede-c603-4c48-b4a4-dd70c01962fc",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_16",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T07:57:49.280431+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-15T08:00:05.128871+03:00",
+        "accepted_at": "2026-10-15T08:00:05.128871+03:00",
+        "started_at": "2026-10-15T07:57:49.280431+03:00",
+        "datetime": "2026-10-15T08:00:05.128871+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "e4bfbb71-c68a-485f-852d-4b3ff9b35c1b",
+        "end_date": "2026-10-15T08:02:57.725367+03:00",
+        "file_name": "071026_15",
+        "item_id": "e325c688-8676-48ba-87b7-e809e87776d9",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_15",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T07:59:21.823083+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-15T08:02:57.725367+03:00",
+        "accepted_at": "2026-10-15T08:02:57.725367+03:00",
+        "started_at": "2026-10-15T07:59:21.823083+03:00",
+        "datetime": "2026-10-15T08:02:57.725367+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "61d09544-c9ae-4ecf-93b0-972f2d214b9e",
+        "end_date": "2026-10-15T08:05:05.801141+03:00",
+        "file_name": "071026_14",
+        "item_id": "3bd8dccb-f517-410e-8178-919a487f8c2c",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_14",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-15T07:59:11.748905+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.88,
+        "submitted_at": "2026-10-15T08:05:05.801141+03:00",
+        "accepted_at": "2026-10-15T08:05:05.801141+03:00",
+        "started_at": "2026-10-15T07:59:11.748905+03:00",
+        "datetime": "2026-10-15T08:05:05.801141+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "74fdeed3-3671-476e-bcd5-bc210b5ab18f",
+        "end_date": "2026-10-15T08:05:50.138657+03:00",
+        "file_name": "071026_20",
+        "item_id": "9aad6b5c-4d11-460a-a284-12d57b7cb596",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_20",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "start_date": "2026-10-15T08:02:57.979475+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-15T08:05:50.138657+03:00",
+        "accepted_at": "2026-10-15T08:05:50.138657+03:00",
+        "started_at": "2026-10-15T08:02:57.979475+03:00",
+        "datetime": "2026-10-15T08:05:50.138657+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "c49d1694-18cd-418f-a2a7-e5b332b7a70e",
+        "end_date": "2026-10-15T08:06:14.259107+03:00",
+        "file_name": "071026_17",
+        "item_id": "abae07cb-82cf-426e-9871-debd8e5fd0ad",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_17",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-15T08:00:05.243383+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-15T08:06:14.259107+03:00",
+        "accepted_at": "2026-10-15T08:06:14.259107+03:00",
+        "started_at": "2026-10-15T08:00:05.243383+03:00",
+        "datetime": "2026-10-15T08:06:14.259107+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "cc099bd0-3102-42b0-ab78-8f8e1530b9f8",
+        "end_date": "2026-10-15T08:08:38.706077+03:00",
+        "file_name": "071026_22",
+        "item_id": "267e50c4-51e8-4154-a0fd-c090504e43b8",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_22",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:05:50.750069+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-15T08:08:38.706077+03:00",
+        "accepted_at": "2026-10-15T08:08:38.706077+03:00",
+        "started_at": "2026-10-15T08:05:50.750069+03:00",
+        "datetime": "2026-10-15T08:08:38.706077+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "142dcb11-9ea8-4549-81cc-1732575ccbc2",
+        "end_date": "2026-10-15T08:09:57.701722+03:00",
+        "file_name": "071026_21",
+        "item_id": "09806f0e-ae05-43ea-91b3-7d87d2410079",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_21",
+            "agent_code": "get_tribe",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:05:06.157976+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-15T08:09:57.701722+03:00",
+        "accepted_at": "2026-10-15T08:09:57.701722+03:00",
+        "started_at": "2026-10-15T08:05:06.157976+03:00",
+        "datetime": "2026-10-15T08:09:57.701722+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "f8504530-cccc-41c1-bd6e-19554b33d74e",
+        "end_date": "2026-10-15T08:10:01.946754+03:00",
+        "file_name": "071026_23",
+        "item_id": "a4a30d89-6afd-4fdf-8405-40f345e26d5b",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_23",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "start_date": "2026-10-15T08:06:14.368686+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-15T08:10:01.946754+03:00",
+        "accepted_at": "2026-10-15T08:10:01.946754+03:00",
+        "started_at": "2026-10-15T08:06:14.368686+03:00",
+        "datetime": "2026-10-15T08:10:01.946754+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "05862c5d-9ed3-4227-a103-5179c656a333",
+        "end_date": "2026-10-15T08:13:55.706409+03:00",
+        "file_name": "071026_24",
+        "item_id": "2653a4be-f8a9-4ea7-b8b3-3981357695f3",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_24",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_tool_required"
+        },
+        "start_date": "2026-10-15T08:08:39.364065+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.75,
+        "submitted_at": "2026-10-15T08:13:55.706409+03:00",
+        "accepted_at": "2026-10-15T08:13:55.706409+03:00",
+        "started_at": "2026-10-15T08:08:39.364065+03:00",
+        "datetime": "2026-10-15T08:13:55.706409+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "4fd1c880-0878-4288-b6bb-ba9cf71dab06",
+        "end_date": "2026-10-15T08:14:12.801146+03:00",
+        "file_name": "071026_25",
+        "item_id": "0b5fd515-b06e-4969-a903-5dafde380ef1",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_25",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:09:58.112914+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-15T08:14:12.801146+03:00",
+        "accepted_at": "2026-10-15T08:14:12.801146+03:00",
+        "started_at": "2026-10-15T08:09:58.112914+03:00",
+        "datetime": "2026-10-15T08:14:12.801146+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "3fe6931a-725f-4b2d-8774-aca416b4a18e",
+        "end_date": "2026-10-15T08:15:52.503807+03:00",
+        "file_name": "071026_26",
+        "item_id": "ba5afa9c-d405-43dc-b357-58c8dee91671",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_26",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-15T08:10:02.061791+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-15T08:15:52.503807+03:00",
+        "accepted_at": "2026-10-15T08:15:52.503807+03:00",
+        "started_at": "2026-10-15T08:10:02.061791+03:00",
+        "datetime": "2026-10-15T08:15:52.503807+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "a087ae45-5233-41e5-8ee9-ebd21fe80860",
+        "end_date": "2026-10-15T08:16:05.188401+03:00",
+        "file_name": "071026_27",
+        "item_id": "34cbf6a8-afc3-4348-a9b5-a3467528634c",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_27",
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:13:57.037947+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.67,
+        "submitted_at": "2026-10-15T08:16:05.188401+03:00",
+        "accepted_at": "2026-10-15T08:16:05.188401+03:00",
+        "started_at": "2026-10-15T08:13:57.037947+03:00",
+        "datetime": "2026-10-15T08:16:05.188401+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "fb8b7136-c8a1-4853-bafb-b821a5a07824",
+        "end_date": "2026-10-15T08:17:43.755810+03:00",
+        "file_name": "071026_32",
+        "item_id": "c2f54af5-ee24-47fa-995e-3de994245427",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_32",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-15T08:15:52.615184+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.25,
+        "submitted_at": "2026-10-15T08:17:43.755810+03:00",
+        "accepted_at": "2026-10-15T08:17:43.755810+03:00",
+        "started_at": "2026-10-15T08:15:52.615184+03:00",
+        "datetime": "2026-10-15T08:17:43.755810+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "765f7914-a6ee-4593-a955-47e0cb495a30",
+        "end_date": "2026-10-15T08:19:51.937218+03:00",
+        "file_name": "071026_34",
+        "item_id": "67df6760-ad9f-4059-bc9b-1a04ffe15d75",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_34",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:16:05.737693+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-15T08:19:51.937218+03:00",
+        "accepted_at": "2026-10-15T08:19:51.937218+03:00",
+        "started_at": "2026-10-15T08:16:05.737693+03:00",
+        "datetime": "2026-10-15T08:19:51.937218+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "fe6cdab3-02ff-4ac5-9843-e075785e5fa6",
+        "end_date": "2026-10-15T08:19:57.917880+03:00",
+        "file_name": "071026_28",
+        "item_id": "b51daeec-8154-4b89-b43d-0dcb0f985bfc",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_28",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "start_date": "2026-10-15T08:14:13.473164+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.5,
+        "submitted_at": "2026-10-15T08:19:57.917880+03:00",
+        "accepted_at": "2026-10-15T08:19:57.917880+03:00",
+        "started_at": "2026-10-15T08:14:13.473164+03:00",
+        "datetime": "2026-10-15T08:19:57.917880+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "7fb99e52-e3a2-40e1-8beb-e05bfcaf1657",
+        "end_date": "2026-10-15T08:23:12.935493+03:00",
+        "file_name": "071026_38",
+        "item_id": "4eb5edd1-4b09-43c1-9efc-121ae0909808",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_38",
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:17:43.857818+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-15T08:23:12.935493+03:00",
+        "accepted_at": "2026-10-15T08:23:12.935493+03:00",
+        "started_at": "2026-10-15T08:17:43.857818+03:00",
+        "datetime": "2026-10-15T08:23:12.935493+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "15cdf4b7-5638-4572-8da3-8d015625adfe",
+        "end_date": "2026-10-15T08:24:57.475066+03:00",
+        "file_name": "071026_40",
+        "item_id": "6fc25550-be66-4d9b-8ad3-33669942d794",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_40",
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:19:52.338314+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-15T08:24:57.475066+03:00",
+        "accepted_at": "2026-10-15T08:24:57.475066+03:00",
+        "started_at": "2026-10-15T08:19:52.338314+03:00",
+        "datetime": "2026-10-15T08:24:57.475066+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "3ea664b1-cc9c-4273-b367-fcbe37a97cd4",
+        "end_date": "2026-10-15T08:25:14.965229+03:00",
+        "file_name": "071026_41",
+        "item_id": "4802ff09-d144-48d3-8d7a-60ec26f32fd1",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_41",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:19:58.253122+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.46,
+        "submitted_at": "2026-10-15T08:25:14.965229+03:00",
+        "accepted_at": "2026-10-15T08:25:14.965229+03:00",
+        "started_at": "2026-10-15T08:19:58.253122+03:00",
+        "datetime": "2026-10-15T08:25:14.965229+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "0a3920a7-c82a-4aa6-89a9-dd3bc3838c4b",
+        "end_date": "2026-10-15T08:27:10.567951+03:00",
+        "file_name": "071026_44",
+        "item_id": "59b8198b-4b04-42a8-ae2d-0a4fbfddc4f7",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_44",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-15T08:24:57.745588+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-15T08:27:10.567951+03:00",
+        "accepted_at": "2026-10-15T08:27:10.567951+03:00",
+        "started_at": "2026-10-15T08:24:57.745588+03:00",
+        "datetime": "2026-10-15T08:27:10.567951+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "f072e0e3-09ed-4230-93e2-1ae1576db0e7",
+        "end_date": "2026-10-15T08:27:17.403569+03:00",
+        "file_name": "071026_42",
+        "item_id": "4885bee6-a11b-4e84-b849-454421f0f4ea",
+        "item_type": "data",
+        "marker_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "f58a806c-9b55-41a4-93dc-3b7c2c640832"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_42",
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:23:13.046661+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.83,
+        "submitted_at": "2026-10-15T08:27:17.403569+03:00",
+        "accepted_at": "2026-10-15T08:27:17.403569+03:00",
+        "started_at": "2026-10-15T08:23:13.046661+03:00",
+        "datetime": "2026-10-15T08:27:17.403569+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "8da98d6f-3658-4516-a263-412ee4474341",
+        "end_date": "2026-10-15T08:30:09.480827+03:00",
+        "file_name": "071026_47",
+        "item_id": "587218b1-da1d-485e-b0a9-1aa13b480cce",
+        "item_type": "data",
+        "marker_id": "86a70677-9d45-43ee-9d79-d09ae4c6baf4",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "756171e3-093e-4c22-a77e-8e3cb2bcde7c"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_47",
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "start_date": "2026-10-15T08:25:15.301024+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-15T08:30:09.480827+03:00",
+        "accepted_at": "2026-10-15T08:30:09.480827+03:00",
+        "started_at": "2026-10-15T08:25:15.301024+03:00",
+        "datetime": "2026-10-15T08:30:09.480827+03:00",
+        "is_review_public": false
+    },
+    {
+        "assignment_id": "0ff6a1cc-275a-41de-8d5c-cbc887fed1e7",
+        "end_date": "2026-10-15T08:30:51.611520+03:00",
+        "file_name": "071026_50",
+        "item_id": "32618bdc-fc63-4743-8b92-6b50c9abf215",
+        "item_type": "data",
+        "marker_id": "a998d464-24f1-4580-b2dc-06aff360bcfb",
+        "organization_id": "ce07feb6-7405-4d32-8346-efe1eb7b08df",
+        "person_id": "bc031b82-28c3-4172-97d7-d5cef4ec5d6f",
+        "pool_ids": [
+            "07440d8a-7416-44e1-b3a5-15e9a7698433"
+        ],
+        "price": 14.5,
+        "result": {
+            "id": "071026_50",
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "start_date": "2026-10-15T08:27:11.073634+03:00",
+        "status": "ACCEPTED",
+        "task_id": "2ac23ced-f53e-4a56-89b6-15dc805ca5e3",
+        "task_type": "PROD",
+        "consistency": 0.63,
+        "submitted_at": "2026-10-15T08:30:51.611520+03:00",
+        "accepted_at": "2026-10-15T08:30:51.611520+03:00",
+        "started_at": "2026-10-15T08:27:11.073634+03:00",
+        "datetime": "2026-10-15T08:30:51.611520+03:00",
+        "is_review_public": false
+    }
+]
