@@ -126,15 +126,44 @@ def prepare_user_prompt(
     )
 
 
-def parse_available_tools(tools: str) -> set[str]:
-    """Преобразует строку доступных инструментов в множество."""
+def evaluate_predictions(
+    predictions: list[dict[str, Any]],
+    errors: list[dict[str, Any]],
+    total_tasks: int,
+) -> dict[str, Any]:
+    """
+    Оценивает предсказания по полному совпадению GT и Prediction.
 
-    return {
-        tool.strip()
-        for tool in tools.split(",")
-        if tool.strip()
+    Задания с ошибками обработки считаются неправильными
+    при расчёте общей точности.
+    """
+
+    correct = 0
+
+    for item in predictions:
+        if item["gt"] == item["prediction"]:
+            correct += 1
+
+    processed = len(predictions)
+    failed = len(errors)
+
+    accuracy = correct / total_tasks if total_tasks else 0.0
+
+    successful_accuracy = (
+        correct / processed if processed else 0.0
+    )
+
+    metrics = {
+        "total_tasks": total_tasks,
+        "processed": processed,
+        "failed": failed,
+        "correct": correct,
+        "incorrect": processed - correct,
+        "accuracy": round(accuracy, 4),
+        "successful_accuracy": round(successful_accuracy, 4),
     }
 
+    return metrics
 
 # ============================================================
 # RESPONSE PARSING
@@ -190,12 +219,12 @@ def extract_json(content: str) -> dict[str, Any]:
 
 def validate_result(
     response: dict[str, Any],
-    available_tools: set[str],
 ) -> dict[str, Any]:
     """
     Проверяет и нормализует результат классификации.
 
-    Возвращает только поля целевой схемы.
+    Не проверяет наличие agent_code в available_tools.
+    Корректность выбора инструмента оценивается отдельно.
     """
 
     if "result" not in response:
@@ -218,15 +247,8 @@ def validate_result(
                 "При tool_needed='yes' должен быть указан agent_code."
             )
 
-        agent_code = agent_code.strip()
-
-        if agent_code not in available_tools:
-            raise ValueError(
-                f"Выбран недоступный инструмент: {agent_code}"
-            )
-
         return {
-            "agent_code": agent_code,
+            "agent_code": agent_code.strip(),
             "tool_needed": "yes",
         }
 
@@ -239,7 +261,10 @@ def validate_result(
 
         no_tool_reason = result.get("no_tool_reason")
 
-        if no_tool_reason not in NO_TOOL_REASONS:
+        if (
+            not isinstance(no_tool_reason, str)
+            or no_tool_reason not in NO_TOOL_REASONS
+        ):
             raise ValueError(
                 f"Недопустимое значение no_tool_reason: "
                 f"{no_tool_reason}"
@@ -251,11 +276,9 @@ def validate_result(
             "no_tool_reason": no_tool_reason,
         }
 
-    if not isinstance(no_tool_reason, str) or no_tool_reason not in NO_TOOL_REASONS:
-        raise ValueError(
-            f"Недопустимое значение no_tool_reason: {no_tool_reason}"
-        )
-
+    raise ValueError(
+        f"Недопустимое значение tool_needed: {tool_needed}"
+    )
 
 # ============================================================
 # SINGLE TASK PROCESSING
@@ -282,7 +305,6 @@ def process_task(
         raise ValueError("Отсутствует корректный id задания.")
 
     user_prompt = prepare_user_prompt(data)
-    available_tools = parse_available_tools(data["tools"])
 
     client = get_worker_client()
 
@@ -292,7 +314,7 @@ def process_task(
     )
 
     response = extract_json(content)
-    prediction = validate_result(response, available_tools)
+    prediction = validate_result(response)
 
     return {
         "data": data,
@@ -560,6 +582,18 @@ def main() -> None:
     logger.info("Предсказания: %s", OUTPUT_PATH)
     logger.info("Ошибки: %s", ERRORS_PATH)
 
+    # 7. Оценка предсказаний.
+
+    metrics = evaluate_predictions(
+        predictions=successful_results,
+        errors=failed_results,
+        total_tasks=total_tasks,
+    )
+
+    logger.info(
+        "Результаты оценки:\n%s",
+        json.dumps(metrics, ensure_ascii=False, indent=4),
+    )
 
 if __name__ == "__main__":
     main()
