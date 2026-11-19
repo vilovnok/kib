@@ -169,7 +169,7 @@
 
 {
     "result": {
-        "agent_code": null,
+        "agent_code": None,
         "tool_needed": "no",
         "no_tool_reason": "no_suitable_tool"
     }
