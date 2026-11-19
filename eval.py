@@ -15,8 +15,8 @@ from crowd_sdk.tagme import TagmeClientAdvanced
 # ============================================================
 
 data = {
-    'task': './вопросы/pool1.json',
-    'gt': './ответы/pool1.json'
+    'task': './data/вопросы/pool1.json',
+    'gt': './data/ответы/pool1.json'
 }
 
 PROVIDER = "aihf"  # "direct", "aihf", "vsellm"
