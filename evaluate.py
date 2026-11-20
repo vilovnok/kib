@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 
-# from classifier.llm import GigaChatClient, MODEL
-from classifier.llm_ait import AITunnelClient, MODEL
+from classifier.llm import GigaChatClient, MODEL
+# from classifier.llm_ait import AITunnelClient, MODEL
 import time
 import requests
 
@@ -118,28 +118,9 @@ def is_retryable_error(exc: Exception) -> bool:
 # WORKER INITIALIZATION
 # ============================================================
 
-# def get_worker_client() -> GigaChatClient:
-#     """
-#     Возвращает GigaChatClient текущего потока.
-
-#     Каждый поток создаёт собственный клиент
-#     и использует его для последующих запросов.
-#     """
-
-#     if not hasattr(worker_local, "client"):
-
-#         worker_local.client = GigaChatClient()
-
-#         logger.info(
-#             "Создан GigaChatClient для потока %s",
-#             threading.current_thread().name,
-#         )
-
-#     return worker_local.client
-
-def get_worker_client() -> AITunnelClient:
+def get_worker_client() -> GigaChatClient:
     """
-    Возвращает AITunnelClient текущего потока.
+    Возвращает GigaChatClient текущего потока.
 
     Каждый поток создаёт собственный клиент
     и использует его для последующих запросов.
@@ -147,14 +128,33 @@ def get_worker_client() -> AITunnelClient:
 
     if not hasattr(worker_local, "client"):
 
-        worker_local.client = AITunnelClient()
+        worker_local.client = GigaChatClient()
 
         logger.info(
-            "Создан AITunnelClient для потока %s",
+            "Создан GigaChatClient для потока %s",
             threading.current_thread().name,
         )
 
     return worker_local.client
+
+# def get_worker_client() -> AITunnelClient:
+#     """
+#     Возвращает AITunnelClient текущего потока.
+
+#     Каждый поток создаёт собственный клиент
+#     и использует его для последующих запросов.
+#     """
+
+#     if not hasattr(worker_local, "client"):
+
+#         worker_local.client = AITunnelClient()
+
+#         logger.info(
+#             "Создан AITunnelClient для потока %s",
+#             threading.current_thread().name,
+#         )
+
+#     return worker_local.client
 
 # ============================================================
 # INPUT PREPARATION
