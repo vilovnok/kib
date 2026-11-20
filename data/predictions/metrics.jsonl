@@ -1,0 +1,1 @@
+{"timestamp": "2026-11-20T02:48:41.758851+00:00", "pool": "pool1", "model": "deepseek-v4.1-flash", "metrics": {"total_tasks": 50, "processed": 50, "failed": 0, "correct": 39, "incorrect": 11, "accuracy": 0.78, "successful_accuracy": 0.78}}

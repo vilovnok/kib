@@ -19,9 +19,8 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "no_suitable_tool"
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
         }
     },
     {
@@ -32,7 +31,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_kpi_rgs",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },
@@ -46,7 +45,7 @@
         "result": {
             "agent_code": null,
             "tool_needed": "no",
-            "no_tool_reason": "clarification_needed"
+            "no_tool_reason": "no_suitable_tool"
         }
     },
     {
@@ -84,7 +83,7 @@
         "result": {
             "agent_code": null,
             "tool_needed": "no",
-            "no_tool_reason": "unclear_request"
+            "no_tool_reason": "no_tool_needed"
         }
     },
     {
@@ -145,9 +144,8 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "clarification_needed"
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
         }
     },
     {
@@ -171,7 +169,7 @@
             "role": "USMIMKO, KKSB"
         },
         "result": {
-            "agent_code": "plan_execute",
+            "agent_code": "planair_fa",
             "tool_needed": "yes"
         }
     },
@@ -195,7 +193,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_kpi_rgs",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },
@@ -356,9 +354,8 @@
             "role": "USMIMKO, KKSB"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "clarification_needed"
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
         }
     },
     {
@@ -555,9 +552,8 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "clarification_needed"
+            "agent_code": "get_rating_rgs",
+            "tool_needed": "yes"
         }
     },
     {
@@ -618,7 +614,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_kpi_rgs",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },
@@ -630,7 +626,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "plan_execute",
+            "agent_code": "kpk_tool",
             "tool_needed": "yes"
         }
     },
@@ -642,9 +638,8 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "no_suitable_tool"
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
         }
     },
     {
@@ -667,9 +662,8 @@
             "role": "USMIMKO"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "clarification_needed"
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
         }
     },
     {
@@ -680,7 +674,7 @@
             "role": "USMIMKO, KKSB"
         },
         "result": {
-            "agent_code": "get_bank_metric_tool",
+            "agent_code": "get_contest_result",
             "tool_needed": "yes"
         }
     },
@@ -704,7 +698,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_kpi_rgs",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },
@@ -876,7 +870,7 @@
         "result": {
             "agent_code": null,
             "tool_needed": "no",
-            "no_tool_reason": "missing_data"
+            "no_tool_reason": "no_suitable_tool"
         }
     },
     {
@@ -887,9 +881,8 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": null,
-            "tool_needed": "no",
-            "no_tool_reason": "no_suitable_tool"
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
         }
     },
     {
@@ -985,7 +978,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_kpi_rgs",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },
@@ -1021,7 +1014,7 @@
             "role": "USMIMKO, KKSB, MMB, RGS"
         },
         "result": {
-            "agent_code": "get_tribe",
+            "agent_code": "plan_execute",
             "tool_needed": "yes"
         }
     },

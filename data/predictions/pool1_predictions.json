@@ -1,0 +1,833 @@
+[
+    {
+        "data": {
+            "question": "как мне выгрузить индекс успеха в разрезе компаний и КМ",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_50",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Прогноз по работающим активам по КПК 30006715?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_49",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "почему у клиента с ИНН 9327133157 уровень доверия 3, если 100% оборотов проходит в Сбере и объем ЧОД 353 руб.?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_48",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Построй рейтинг командировочных расходов по ТБ за 2025 год",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_47",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "Что означает дельта с н. кв. в разделе статьи ЧКД",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_46",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "По клиенту не проставлен УД, стоит прочерк, хотя продукты есть. Прошу посчитать звезды по клиенту в РГС.",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_45",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        }
+    },
+    {
+        "data": {
+            "question": "покажи динамику рейтинга ББ в рейтинге РГС",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_44",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "выведи список драйверов и описание методологии по ним",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_43",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "факт по ЧОД сбербанка за 2025 год",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_42",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "какие данные по ФОТ Дальневосточного банка у тебя есть?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_41",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "почему снизился ЧКД на 04.08.26 по сравнению с данными на 28.07.26?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_40",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Факт ДРКБ по PL 2 мес. 2026",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_39",
+            "role": "USMIMKO"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "какую аналитику можешь предоставить по финансовым КПЭ в разрезе КПК 22731019",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_38",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "На каком месте в кубке территорий Волго-Вятский банк?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_37",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Уровень доверия клиента с ИНН 8940993465 на 30.09.2025",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_36",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "trust_level_case",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "у тебя есть информация по выполнению плана по КПК?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_35",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Из какого источника можно выгрузить все ключевые метрики кредитного портфеля УКиПФ СЗБ в разрезе клиентов, продуктов",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_34",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Как выполнить план по ФОТ Среднерусскому банку? Какие инструменты нужно использовать для возврата доли рынка?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_33",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Какая прибыль Московского банка на 31 февраля 2026?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_32",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "покажи портфель по ГЧП Ленинградской области",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_31",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "покажи портфель по ГЧП Северо-Западного банка",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_30",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "сформировать отчет о выполнении плана по КПЭ за 2 квартал по КПК 24422981",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_29",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "прогноз од по КМ до конца года",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_28",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Почему у клиента с ИНН 7100036236 отрицательный чод ?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_27",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "какой ранг  был  у  свердловского госб  по номинации куратор за 2025 год",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_26",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "Какой фак  уровень доверия в ММБ в июле 2026 года по ЮЗБ",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_25",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "как мне оставить обращение в друг по DB Qlick Sense?wJ",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_24",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "когда начнется прогноз 4 квартала?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_23",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_tool_needed"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Сравни opex ДММБ в первых кварталах 2025 и 2026. Представь результаты сравнения в табличной форме.",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_22",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "дай динамику факт по дтб по opex 2026",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_21",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "осз это остаток ссудной задолженности",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_20",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "прогнозный уровень доверия клиента 7365588384",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_19",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "Какое место в Кубке территорий у Уральского банка?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_18",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_result",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Какой расход по статье ТМ КМ ММБ за 11 месяцев 2025?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_17",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "факт по ЧКД за 3 месяца 2025  байкальского банка",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_16",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "напиши почему уменьшился остаток по активам по клиенту ИНН 9569900710",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_15",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "На какую дату последний расчет и когда ждать следующий",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_14",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        }
+    },
+    {
+        "data": {
+            "question": "выставить запрос в лруга",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_13",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        }
+    },
+    {
+        "data": {
+            "question": "Предоставь аналитику по финансовым кпэ в разрезе кпк  82525910,67521339,53333722,86044241,39048136",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_12",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "kpk_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "покажи прогноз по ГЧП Московского банка",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_11",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "найди инфомацию по уровню доверию РГС",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_10",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "clarification_needed"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Какой уровень доверия в ММБ в июле 2026 года по ЮЗБ",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_9",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Проведи анализ причин невыполнения плана по ФОТ",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_8",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "planair_fa",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "сделай разбивку по каждому менеджеру КПК, какие результаты?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_7",
+            "role": "USMIMKO, KKSB"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "missing_data"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "Почему не учтен кнк",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_6",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "unclear_request"
+        }
+    },
+    {
+        "data": {
+            "question": "Построй сводную информацию по среднерусскому банку",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_5",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "Выведи информацию по выполнению плана Среднерусским банком",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_4",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_kpi_rgs",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "plan_execute",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "что такое маржа активов?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_3",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_contest_methodology_tool",
+            "tool_needed": "yes"
+        }
+    },
+    {
+        "data": {
+            "question": "как выгрузить таблицу в эксель",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_kpi_rgs, get_rating_rgs, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_2",
+            "role": "USMIMKO, KKSB, MMB, RGS"
+        },
+        "gt": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_tool_required"
+        },
+        "prediction": {
+            "agent_code": null,
+            "tool_needed": "no",
+            "no_tool_reason": "no_suitable_tool"
+        }
+    },
+    {
+        "data": {
+            "question": "Построй таблицу с показателями PL трайба ДММБ за 9 месяцев?",
+            "tools": "get_bank_improvement_tool, get_bank_metric_tool, get_contest_methodology_tool, get_contest_result, get_tribe, kpk_tool, plan_execute, planair_fa, trust_level_case, what_can_i_do",
+            "id": "071026_1",
+            "role": "USMIMKO"
+        },
+        "gt": {
+            "agent_code": "get_tribe",
+            "tool_needed": "yes"
+        },
+        "prediction": {
+            "agent_code": "get_tribe",
+            "tool_needed": "yes"
+        }
+    }
+]

@@ -12,8 +12,9 @@ API_KEY = "sk-aitunnel-952OyNguzQqPU6Esiay4Bo0YioSi1SXj"
 
 MODEL = "deepseek-v4.1-flash"
 
-REASONING_EFFORT = "medium"
-
+TEMPERATURE = 0
+REASONING_EFFORT = "low"
+MAX_TOKENS = 4448
 TIMEOUT = (60, 300)
 
 
@@ -68,6 +69,8 @@ class AITunnelClient:
                     "content": user_prompt,
                 },
             ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
         }
 
         response = self.session.post(
