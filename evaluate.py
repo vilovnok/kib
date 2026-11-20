@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
 
-from classifier.llm import GigaChatClient, MODEL
+# from classifier.llm import GigaChatClient, MODEL
+from classifier.llm_ait import AITunnelClient, MODEL
 import time
 import requests
 
@@ -102,11 +103,13 @@ def is_retryable_error(exc: Exception) -> bool:
 
         if response is not None:
             return response.status_code in {
-                429,
-                500,
-                502,
-                503,
-                504,
+                408,  # Request Timeout
+                425,  # Too Early
+                429,  # Too Many Requests
+                500,  # Internal Server Error
+                502,  # Bad Gateway
+                503,  # Service Unavailable
+                504,  # Gateway Timeout
             }
 
     return False
@@ -115,9 +118,28 @@ def is_retryable_error(exc: Exception) -> bool:
 # WORKER INITIALIZATION
 # ============================================================
 
-def get_worker_client() -> GigaChatClient:
+# def get_worker_client() -> GigaChatClient:
+#     """
+#     Возвращает GigaChatClient текущего потока.
+
+#     Каждый поток создаёт собственный клиент
+#     и использует его для последующих запросов.
+#     """
+
+#     if not hasattr(worker_local, "client"):
+
+#         worker_local.client = GigaChatClient()
+
+#         logger.info(
+#             "Создан GigaChatClient для потока %s",
+#             threading.current_thread().name,
+#         )
+
+#     return worker_local.client
+
+def get_worker_client() -> AITunnelClient:
     """
-    Возвращает GigaChatClient текущего потока.
+    Возвращает AITunnelClient текущего потока.
 
     Каждый поток создаёт собственный клиент
     и использует его для последующих запросов.
@@ -125,15 +147,14 @@ def get_worker_client() -> GigaChatClient:
 
     if not hasattr(worker_local, "client"):
 
-        worker_local.client = GigaChatClient()
+        worker_local.client = AITunnelClient()
 
         logger.info(
-            "Создан GigaChatClient для потока %s",
+            "Создан AITunnelClient для потока %s",
             threading.current_thread().name,
         )
 
     return worker_local.client
-
 
 # ============================================================
 # INPUT PREPARATION
