@@ -1,3 +1,6 @@
+from datetime import datetime, timezone
+
+from classifier.llm import GigaChatClient, MODEL
 import time
 import requests
 
@@ -10,7 +13,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
-from classifier.llm import GigaChatClient
 
 
 # ============================================================
@@ -20,6 +22,7 @@ from classifier.llm import GigaChatClient
 INPUT_PATH = Path("data/gt/pool1.json")
 OUTPUT_PATH = Path("data/predictions/pool1_predictions.json")
 ERRORS_PATH = Path("data/predictions/pool1_errors.json")
+METRICS_PATH = Path("data/predictions/metrics.jsonl")
 SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_base.md")
 
 LOG_EVERY = 10
@@ -205,6 +208,47 @@ def evaluate_predictions(
     }
 
     return metrics
+
+
+def save_metrics(
+    metrics: dict[str, Any],
+    pool_path: Path,
+    model: str,
+) -> None:
+    """
+    Добавляет результаты оценки в общий журнал метрик.
+
+    Каждый запуск записывается отдельной JSON-строкой.
+    """
+
+    record = {
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "pool": pool_path.stem,
+        "model": model,
+        "metrics": metrics,
+    }
+
+    METRICS_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    with METRICS_PATH.open(
+        "a",
+        encoding="utf-8",
+    ) as file:
+        file.write(
+            json.dumps(
+                record,
+                ensure_ascii=False,
+            ) + "\n"
+        )
+
+    logger.info(
+        "Метрики сохранены: %s",
+        METRICS_PATH,
+    )
+
 
 # ============================================================
 # RESPONSE PARSING
@@ -678,6 +722,14 @@ def main() -> None:
     logger.info(
         "Результаты оценки:\n%s",
         json.dumps(metrics, ensure_ascii=False, indent=4),
+    )
+
+    # 8. Сохранение метрик пула.
+
+    save_metrics(
+        metrics=metrics,
+        pool_path=INPUT_PATH,
+        model=MODEL,
     )
 
 if __name__ == "__main__":
