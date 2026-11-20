@@ -28,7 +28,7 @@ SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_base.md")
 LOG_EVERY = 10
 
 MAX_RETRIES = 5
-RETRY_DELAY = 2
+RETRY_DELAY = 5
 MAX_RETRY_DELAY = 30
 
 
