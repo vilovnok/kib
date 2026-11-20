@@ -1,3 +1,6 @@
+import time
+import requests
+
 import argparse
 import json
 import logging
@@ -20,6 +23,11 @@ ERRORS_PATH = Path("data/predictions/pool1_errors.json")
 SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_base.md")
 
 LOG_EVERY = 10
+
+MAX_RETRIES = 5
+RETRY_DELAY = 2
+MAX_RETRY_DELAY = 30
+
 
 NO_TOOL_REASONS = {
     "missing_data",
@@ -66,6 +74,39 @@ def load_system_prompt() -> str:
 
     return prompt
 
+
+def is_retryable_error(exc: Exception) -> bool:
+    """
+    Определяет, нужно ли повторять запрос.
+
+    Повторяем при:
+    - потере соединения;
+    - таймауте;
+    - временных HTTP-ошибках сервера.
+    """
+
+    if isinstance(
+        exc,
+        (
+            requests.exceptions.ConnectionError,
+            requests.exceptions.Timeout,
+        ),
+    ):
+        return True
+
+    if isinstance(exc, requests.exceptions.HTTPError):
+        response = exc.response
+
+        if response is not None:
+            return response.status_code in {
+                429,
+                500,
+                502,
+                503,
+                504,
+            }
+
+    return False
 
 # ============================================================
 # WORKER INITIALIZATION
@@ -331,9 +372,12 @@ def evaluate_task(
     task: dict[str, Any],
     system_prompt: str,
 ) -> dict[str, Any]:
-    """Обрабатывает задание и перехватывает ошибки."""
+    """
+    Обрабатывает задание с повторными попытками
+    при временных сетевых ошибках.
+    """
 
-    data = task.get("data")
+    data = task.get("data") if isinstance(task, dict) else None
 
     task_id = (
         data.get("id")
@@ -341,31 +385,72 @@ def evaluate_task(
         else None
     )
 
-    try:
-        result = process_task(
-            task=task,
-            system_prompt=system_prompt,
-        )
+    for attempt in range(1, MAX_RETRIES + 1):
 
-        return {
-            "success": True,
-            "result": result,
-        }
+        try:
+            result = process_task(
+                task=task,
+                system_prompt=system_prompt,
+            )
 
-    except Exception as exc:
-        logger.exception(
-            "Ошибка обработки задания %s",
-            task_id,
-        )
+            if attempt > 1:
+                logger.info(
+                    "Задание %s успешно обработано "
+                    "после %s попыток",
+                    task_id,
+                    attempt,
+                )
 
-        return {
-            "success": False,
-            "error": {
-                "id": task_id,
-                "error": str(exc),
-            },
-        }
+            return {
+                "success": True,
+                "result": result,
+            }
 
+        except Exception as exc:
+
+            retryable = is_retryable_error(exc)
+
+            # Если ошибка не сетевая или попытки закончились.
+            if not retryable or attempt == MAX_RETRIES:
+
+                logger.exception(
+                    "Задание %s не обработано. "
+                    "Попыток: %s/%s",
+                    task_id,
+                    attempt,
+                    MAX_RETRIES,
+                )
+
+                return {
+                    "success": False,
+                    "error": {
+                        "id": task_id,
+                        "attempts": attempt,
+                        "error": str(exc),
+                    },
+                }
+
+            # Экспоненциальная задержка.
+            delay = min(
+                RETRY_DELAY * (2 ** (attempt - 1)),
+                MAX_RETRY_DELAY,
+            )
+
+            logger.warning(
+                "Временная ошибка при обработке задания %s. "
+                "Попытка %s/%s. Повтор через %s сек. Ошибка: %s",
+                task_id,
+                attempt,
+                MAX_RETRIES,
+                delay,
+                exc,
+            )
+
+            time.sleep(delay)
+
+    raise RuntimeError(
+        f"Неожиданное завершение обработки задания {task_id}"
+    )
 
 # ============================================================
 # SAVE RESULTS
